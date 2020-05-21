@@ -1,3 +1,3 @@
 function add () {
-    console.log("Result: ", 1+2)
+    console.log("Add result: ", 1+2)
 }
